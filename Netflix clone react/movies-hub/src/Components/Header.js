@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import "./Header.css"
 import { Link } from 'react-router-dom'
-import img1 from "../images/img1.png"
+import img1 from "../images/img1.jpg"
 const Header = () => {
   const[menuOpen,setMenuOpen] = useState(false);
 
